@@ -186,5 +186,19 @@ namespace WebApi.Repositories
             
             return ingredientesList;
         }
+        public IEnumerable<string> ingredientesArrozintegralpollo()
+        {
+            var ingredientesList = new List<string>();
+            ingredientesList.Add("2 tazas de arroz integral");
+            ingredientesList.Add("1 Lb de pollo");
+            ingredientesList.Add("6 tazas de agua");
+            ingredientesList.Add("3 cucharadas de cebolla picada");
+            ingredientesList.Add("1/2 zanahoria picada en cuadritos");
+            ingredientesList.Add("1/2 taza de elote desgranado");
+            ingredientesList.Add("1 diente de ajo picando finamente");
+            ingredientesList.Add("sal a gusto");
+            
+            return ingredientesList;
+        }
     }
 }

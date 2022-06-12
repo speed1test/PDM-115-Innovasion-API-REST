@@ -18,16 +18,16 @@ namespace WebApi.Controllers
         {
             var recetasList = new List<Receta>();
             var recetas = new RecetasRepository();
-            recetasList.Add(recetas.ensalada());
             recetasList.Add(recetas.Yogurtconfrutas());
+            recetasList.Add(recetas.ensalada());
             recetasList.Add(recetas.PancakesdeManzana());
             recetasList.Add(recetas.Polloalhornoconpatatas());
             recetasList.Add(recetas.Lomitoderesrelleno());
-            recetasList.Add(recetas.ensaladaDebrocoliConPollo());
             recetasList.Add(recetas.ensaladaDeLentejas());
+            recetasList.Add(recetas.ensaladaDebrocoliConPollo());
             recetasList.Add(recetas.Pancakesketo());
-            recetasList.Add(recetas.Arrozintegralconleche());
             recetasList.Add(recetas.TortitasconEspinacasyQueso());
+            recetasList.Add(recetas.Arrozintegralconleche());
             recetasList.Add(recetas.Merluzacongambas());
             recetasList.Add(recetas.Merluzaalaplancha());
             recetasList.Add(recetas.Arrozintegralconverduras());

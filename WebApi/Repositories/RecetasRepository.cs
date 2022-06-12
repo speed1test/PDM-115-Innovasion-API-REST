@@ -217,6 +217,22 @@ namespace WebApi.Repositories
 
             return receta;
         }
+        public Receta ArrozintegralConPollo()
+        {
+            var receta = new Receta();
+            var ingredientes = new Ingredientes();
+            var instrucciones = new Instrucciones();
+            receta.nombre = "Arroz integral con pollo";
+            receta.image = "https://recetitasfit.com/wp-content/uploads/2020/07/arroz-integral-con-verduras.jpg";
+            receta.temPreparacion = "45 min";
+            receta.porciones = "6";
+            receta.calorias = "178";
+            receta.ingredientes = ingredientes.ingredientesArrozintegralpollo();
+            receta.instrucciones = instrucciones.intruccionesArrozintegralconverduras();
+            receta.categoria = "Vegetarianas";
+
+            return receta;
+        }
     }
     
 }
