@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAACfnkybP+40uyzWFj8Y4ZzQAAAAACAAAAAAAQZgAAAAEAACAAAAAUUsQYSoLMtN4D31DLy9Vvuth0eiWIKsXM4LvMPqxvdwAAAAAOgAAAAAIAACAAAAB/nu/FnzLdIoXJkRGPVTehVFzl44eoc3iYqsFGLa0hmyAAAAD9vRPvwz/jq10ARgZ8EJEUKqhBCnIAWROj1o4QjzJe/kAAAADfsUBS+XxxUJHcyo9s15Z3x7vVnK8KM03HHunj2cnaaPj6laC6AF4s9TzeRpKrYBUEmlnTuQpv/YNzj7zLfCux</EncryptedPassword>
+    <_PublishTargetUrl>ftp://155.254.244.30/www.fitnessapp.somee.com</_PublishTargetUrl>
+    <History>True|2022-06-10T23:57:43.8975531Z;False|2022-06-10T17:48:34.6331322-06:00;True|2022-06-10T17:45:37.0065455-06:00;False|2022-06-10T17:36:53.2656854-06:00;False|2022-06-10T17:35:27.4781988-06:00;False|2022-06-10T17:35:05.7270708-06:00;False|2022-06-10T17:34:32.9713723-06:00;True|2022-06-10T17:33:12.6971755-06:00;True|2022-06-08T22:11:31.7100040-06:00;True|2022-06-08T17:30:17.7042510-06:00;False|2022-06-08T17:29:45.6903774-06:00;True|2022-06-08T17:27:23.1415741-06:00;True|2022-06-08T12:31:30.5968036-06:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="appsettings.Development.json">
+      <publishTime>06/07/2022 13:56:41</publishTime>
+    </File>
+    <File Include="appsettings.json">
+      <publishTime>06/07/2022 13:56:42</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>06/10/2022 17:57:31</publishTime>
+    </File>
+    <File Include="WebApi.deps.json">
+      <publishTime>06/10/2022 17:57:31</publishTime>
+    </File>
+    <File Include="WebApi.dll">
+      <publishTime>06/10/2022 17:57:28</publishTime>
+    </File>
+    <File Include="WebApi.exe">
+      <publishTime>06/10/2022 17:57:28</publishTime>
+    </File>
+    <File Include="WebApi.pdb">
+      <publishTime>06/10/2022 17:57:28</publishTime>
+    </File>
+    <File Include="WebApi.runtimeconfig.json">
+      <publishTime>06/08/2022 12:30:36</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

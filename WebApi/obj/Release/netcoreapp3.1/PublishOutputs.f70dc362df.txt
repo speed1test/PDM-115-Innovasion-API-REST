@@ -1,0 +1,7 @@
+C:\Users\Kevin\source\repos\WebApi\WebApi\obj\Release\netcoreapp3.1\PubTmp\Out\WebApi.exe
+C:\Users\Kevin\source\repos\WebApi\WebApi\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+C:\Users\Kevin\source\repos\WebApi\WebApi\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+C:\Users\Kevin\source\repos\WebApi\WebApi\obj\Release\netcoreapp3.1\PubTmp\Out\WebApi.dll
+C:\Users\Kevin\source\repos\WebApi\WebApi\obj\Release\netcoreapp3.1\PubTmp\Out\WebApi.deps.json
+C:\Users\Kevin\source\repos\WebApi\WebApi\obj\Release\netcoreapp3.1\PubTmp\Out\WebApi.runtimeconfig.json
+C:\Users\Kevin\source\repos\WebApi\WebApi\obj\Release\netcoreapp3.1\PubTmp\Out\WebApi.pdb
